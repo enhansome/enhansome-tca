@@ -1,6 +1,6 @@
 # Awesome "The Swift Composable Architecture" with stars
 
-A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,871 | 🐛 26 | 🌐 Swift | 📅 2026-07-24
+A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,872 | 🐛 26 | 🌐 Swift | 📅 2026-07-24
 
 # Articles:
 
@@ -35,7 +35,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 # Code:
 
-* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,871 | 🐛 26 | 🌐 Swift | 📅 2026-07-24
+* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,872 | 🐛 26 | 🌐 Swift | 📅 2026-07-24
 * [Swift Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions) ⭐ 342 | 🐛 17 | 🌐 Swift | 📅 2025-08-21
 * [ReactiveSwift Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture) ⭐ 162 | 🐛 1 | 🌐 Swift | 📅 2023-01-31
 * [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo) ⭐ 93 | 🐛 0 | 📅 2021-04-11
@@ -47,7 +47,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 # Showcases:
 
-* [isowords - Open source game built in SwiftUI and the Composable Architecture.](https://github.com/pointfreeco/isowords) ⭐ 3,003 | 🐛 9 | 🌐 Swift | 📅 2024-08-16
+* [isowords - Open source game built in SwiftUI and the Composable Architecture.](https://github.com/pointfreeco/isowords) ⭐ 3,004 | 🐛 9 | 🌐 Swift | 📅 2024-08-16
 * [markoff - A lightweight Markdown (CommonMark) previewer for macOS.](https://github.com/kaishin/markoff) ⭐ 799 | 🐛 24 | 🌐 Swift | 📅 2020-10-13
 * [Life Progress](https://github.com/Bartozo/Life-Progress-iOS) ⭐ 313 | 🐛 2 | 🌐 Swift | 📅 2024-12-01
 * [Milestones](https://github.com/jpsim/Milestones) ⭐ 204 | 🐛 3 | 🌐 Swift | 📅 2026-02-12
@@ -82,4 +82,4 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
