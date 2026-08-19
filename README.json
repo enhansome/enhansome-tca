@@ -1,8 +1,427 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Composable Architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261039251,
+            "language": "Swift",
+            "last_commit": "2026-07-24T14:53:59Z",
+            "owner": "pointfreeco",
+            "repo": "swift-composable-architecture",
+            "stars": 14875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Dependencies Additions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 581857020,
+            "language": "Swift",
+            "last_commit": "2025-08-21T03:40:39Z",
+            "owner": "tgrapperon",
+            "repo": "swift-dependencies-additions",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactiveSwift Composable Architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266060329,
+            "language": "Swift",
+            "last_commit": "2023-01-31T23:41:06Z",
+            "owner": "ReactiveCocoa",
+            "repo": "reactiveswift-composable-architecture",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftUI Navigation with Composable Architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313783684,
+            "language": null,
+            "last_commit": "2021-04-11T00:09:59Z",
+            "owner": "darrarski",
+            "repo": "tca-swiftui-navigation-demo",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCA + Tuist = Scalable modular architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279782205,
+            "language": "Swift",
+            "last_commit": "2020-08-11T10:25:09Z",
+            "owner": "fortmarek",
+            "repo": "ComposableTuistArchitecture",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xctemplate for tca",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334965694,
+            "language": "Makefile",
+            "last_commit": "2024-06-21T20:16:53Z",
+            "owner": "riiid",
+            "repo": "xctemplate-for-tca",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxComposableArchitecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 269233470,
+            "language": "Swift",
+            "last_commit": "2020-06-04T03:04:24Z",
+            "owner": "esam091",
+            "repo": "RxComposableArchitecture",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCA-beam: templated reducer + view stub generation tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 649290449,
+            "language": "Python",
+            "last_commit": "2024-07-15T09:42:21Z",
+            "owner": "alexhunsley",
+            "repo": "tca-beam",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCADiagram - Create mermaid md file from swift-composable-architecture to show the full diagram of your feature relationships",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 795355513,
+            "language": null,
+            "last_commit": "2024-05-03T04:56:45Z",
+            "owner": "riiid",
+            "repo": "tca-diagram",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Code:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "isowords - Open source game built in SwiftUI and the Composable Architecture.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 348515395,
+            "language": "Swift",
+            "last_commit": "2024-08-16T17:33:23Z",
+            "owner": "pointfreeco",
+            "repo": "isowords",
+            "stars": 3004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markoff - A lightweight Markdown (CommonMark) previewer for macOS.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41756783,
+            "language": "Swift",
+            "last_commit": "2020-10-13T10:03:35Z",
+            "owner": "kaishin",
+            "repo": "markoff",
+            "stars": 799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Life Progress",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 611292597,
+            "language": "Swift",
+            "last_commit": "2024-12-01T17:39:45Z",
+            "owner": "Bartozo",
+            "repo": "Life-Progress-iOS",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Milestones",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 267715761,
+            "language": "Swift",
+            "last_commit": "2026-02-12T14:29:04Z",
+            "owner": "jpsim",
+            "repo": "Milestones",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCAminesweeper - Minesweeper game in Swift UI using the Composable Architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350113857,
+            "language": "Swift",
+            "last_commit": "2024-12-09T15:30:19Z",
+            "owner": "RogyMD",
+            "repo": "TCAminesweeper",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Construct",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 298809329,
+            "language": "Swift",
+            "last_commit": "2026-06-16T19:28:25Z",
+            "owner": "Thomvis",
+            "repo": "Construct",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokemonCards - SwiftUI + Composable Architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334202626,
+            "language": "Swift",
+            "last_commit": "2023-03-15T16:49:22Z",
+            "owner": "significa",
+            "repo": "ios-swiftui-tca-example",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logistics-ios",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241732796,
+            "language": "Swift",
+            "last_commit": "2025-05-12T15:12:15Z",
+            "owner": "hypertrack",
+            "repo": "visits-ios",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WallpapersStudio-iOS - Convert photos into wallpapers - iOS application build with SwiftUI and ComposableArchitecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 294535800,
+            "language": "Swift",
+            "last_commit": "2021-10-04T08:34:39Z",
+            "owner": "darrarski",
+            "repo": "WallpapersStudio-iOS",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Status Bar macOS App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271827019,
+            "language": "Swift",
+            "last_commit": "2020-12-14T22:07:30Z",
+            "owner": "darrarski",
+            "repo": "github-status-bar",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCA-Snake - Snake built on SwiftUI & TCA (The Composable Architecture)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 386457905,
+            "language": "Swift",
+            "last_commit": "2021-07-16T14:53:39Z",
+            "owner": "p-larson",
+            "repo": "TCA-Snake",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FillTheGaps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280691683,
+            "language": "Swift",
+            "last_commit": "2020-07-28T17:47:32Z",
+            "owner": "MoralAlberto",
+            "repo": "FillTheGaps",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCA-Bible",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 667958281,
+            "language": "Swift",
+            "last_commit": "2023-09-15T19:48:45Z",
+            "owner": "p-larson",
+            "repo": "TCA-Bible",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemoArt - A basic but smart SwiftUI pair-matching game. Continuously improving with some new art styles, new difficulty levels and some other user experience ideas.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 305147839,
+            "language": "Swift",
+            "last_commit": "2022-07-24T10:25:31Z",
+            "owner": "renaudjenny",
+            "repo": "MemoArt",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wishlist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208662916,
+            "language": "Swift",
+            "last_commit": "2025-05-20T11:13:06Z",
+            "owner": "Rypac",
+            "repo": "wishlist",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCACalc",
+          "description": "A demonstration of a calculator app written in Swift using The Composable Architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666112585,
+            "language": "Swift",
+            "last_commit": "2025-04-13T22:26:57Z",
+            "owner": "DandyLyons",
+            "repo": "TCACalc",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sauna - A lightweight macOS app that displays your Steam friends list.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274404291,
+            "language": "Swift",
+            "last_commit": "2021-05-31T13:33:58Z",
+            "owner": "alexjohnj",
+            "repo": "Sauna",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moviehub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222714807,
+            "language": "Swift",
+            "last_commit": "2020-08-04T23:14:57Z",
+            "owner": "oskarek",
+            "repo": "Moviehub",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Showcases:"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T14:51:13.895Z",
+    "last_updated": "2026-08-19T12:55:03.867Z",
     "original_repository": "antranapp/awesome-tca",
+    "original_repository_id": 267815253,
     "original_repository_sha": "3218bc44793ed0bcf8f08763aed2269d86f3d3fd",
     "enhanced_repository": "enhansome/enhansome-tca",
     "enhanced_repository_description": null,

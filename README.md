@@ -1,6 +1,6 @@
 # Awesome "The Swift Composable Architecture" with stars
 
-A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,876 | 🐛 26 | 🌐 Swift | 📅 2026-07-24
+A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,875 | 🐛 26 | 🌐 Swift | 📅 2026-07-24
 
 # Articles:
 
@@ -35,8 +35,8 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 # Code:
 
-* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,876 | 🐛 26 | 🌐 Swift | 📅 2026-07-24
-* [Swift Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions) ⭐ 342 | 🐛 17 | 🌐 Swift | 📅 2025-08-21
+* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,875 | 🐛 26 | 🌐 Swift | 📅 2026-07-24
+* [Swift Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions) ⭐ 341 | 🐛 17 | 🌐 Swift | 📅 2025-08-21
 * [ReactiveSwift Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture) ⭐ 162 | 🐛 1 | 🌐 Swift | 📅 2023-01-31
 * [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo) ⭐ 93 | 🐛 0 | 📅 2021-04-11
 * [TCA + Tuist = Scalable modular architecture](https://github.com/fortmarek/ComposableTuistArchitecture) ⭐ 59 | 🐛 0 | 🌐 Swift | 📅 2020-08-11
@@ -82,4 +82,4 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
