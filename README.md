@@ -82,4 +82,4 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
