@@ -12,10 +12,10 @@
             "archived": false,
             "id": 261039251,
             "language": "Swift",
-            "last_commit": "2026-07-24T14:53:59Z",
+            "last_commit": "2026-08-27T23:36:05Z",
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14888
+            "stars": 14890
           }
         },
         {
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:03.854Z",
+    "last_updated": "2026-08-27T23:46:36.093Z",
     "original_repository_info": {
       "archived": false,
       "id": 267815253,
