@@ -15,7 +15,7 @@
             "last_commit": "2026-07-24T14:53:59Z",
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14885
+            "stars": 14888
           }
         },
         {
@@ -419,9 +419,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:51:39.970Z",
-    "original_repository": "antranapp/awesome-tca",
-    "original_repository_id": 267815253,
+    "last_updated": "2026-08-27T12:05:03.854Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 267815253,
+      "language": null,
+      "last_commit": "2024-06-09T02:22:18Z",
+      "owner": "antranapp",
+      "repo": "awesome-tca",
+      "stars": 327
+    },
     "original_repository_sha": "3218bc44793ed0bcf8f08763aed2269d86f3d3fd",
     "enhanced_repository": "enhansome/enhansome-tca",
     "enhanced_repository_description": null,
