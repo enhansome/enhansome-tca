@@ -1,6 +1,6 @@
 # Awesome "The Swift Composable Architecture" with stars
 
-A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,890 | 🐛 26 | 🌐 Swift | 📅 2026-08-27
+A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,891 | 🐛 25 | 🌐 Swift | 📅 2026-08-28
 
 # Articles:
 
@@ -35,7 +35,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 # Code:
 
-* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,890 | 🐛 26 | 🌐 Swift | 📅 2026-08-27
+* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,891 | 🐛 25 | 🌐 Swift | 📅 2026-08-28
 * [Swift Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions) ⭐ 341 | 🐛 17 | 🌐 Swift | 📅 2025-08-21
 * [ReactiveSwift Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture) ⭐ 162 | 🐛 1 | 🌐 Swift | 📅 2023-01-31
 * [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo) ⭐ 93 | 🐛 0 | 📅 2021-04-11
@@ -51,7 +51,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 * [markoff - A lightweight Markdown (CommonMark) previewer for macOS.](https://github.com/kaishin/markoff) ⭐ 799 | 🐛 24 | 🌐 Swift | 📅 2020-10-13
 * [Life Progress](https://github.com/Bartozo/Life-Progress-iOS) ⭐ 313 | 🐛 2 | 🌐 Swift | 📅 2024-12-01
 * [Milestones](https://github.com/jpsim/Milestones) ⭐ 204 | 🐛 3 | 🌐 Swift | 📅 2026-02-12
-* [TCAminesweeper - Minesweeper game in Swift UI using the Composable Architecture](https://github.com/RogyMD/TCAminesweeper) ⭐ 137 | 🐛 0 | 🌐 Swift | 📅 2024-12-09
+* [TCAminesweeper - Minesweeper game in Swift UI using the Composable Architecture](https://github.com/RogyMD/TCAminesweeper) ⭐ 138 | 🐛 0 | 🌐 Swift | 📅 2024-12-09
 * [Construct](https://github.com/Thomvis/Construct) ⭐ 124 | 🐛 1 | 🌐 Swift | 📅 2026-06-16
 * [PokemonCards - SwiftUI + Composable Architecture](https://github.com/coletiv/coletiv-ios-swiftui-tca-example) ⭐ 107 | 🐛 2 | 🌐 Swift | 📅 2023-03-15
 * [logistics-ios](https://github.com/hypertrack/logistics-ios) ⭐ 63 | 🐛 0 | 🌐 Swift | 📅 2025-05-12
@@ -82,4 +82,4 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

@@ -12,11 +12,12 @@
             "archived": false,
             "id": 261039251,
             "language": "Swift",
-            "last_commit": "2026-08-27T23:36:05Z",
+            "last_commit": "2026-08-28T21:10:35Z",
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14890
-          }
+            "stars": 14891
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "tgrapperon",
             "repo": "swift-dependencies-additions",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ReactiveCocoa",
             "repo": "reactiveswift-composable-architecture",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "darrarski",
             "repo": "tca-swiftui-navigation-demo",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "fortmarek",
             "repo": "ComposableTuistArchitecture",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "riiid",
             "repo": "xctemplate-for-tca",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "esam091",
             "repo": "RxComposableArchitecture",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "alexhunsley",
             "repo": "tca-beam",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "riiid",
             "repo": "tca-diagram",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         }
       ],
       "title": "Code:"
@@ -157,7 +166,8 @@
             "owner": "pointfreeco",
             "repo": "isowords",
             "stars": 3005
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "kaishin",
             "repo": "markoff",
             "stars": 799
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "Bartozo",
             "repo": "Life-Progress-iOS",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "jpsim",
             "repo": "Milestones",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -216,8 +229,9 @@
             "last_commit": "2024-12-09T15:30:19Z",
             "owner": "RogyMD",
             "repo": "TCAminesweeper",
-            "stars": 137
-          }
+            "stars": 138
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "Thomvis",
             "repo": "Construct",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "significa",
             "repo": "ios-swiftui-tca-example",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "hypertrack",
             "repo": "visits-ios",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "darrarski",
             "repo": "WallpapersStudio-iOS",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "darrarski",
             "repo": "github-status-bar",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "p-larson",
             "repo": "TCA-Snake",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "MoralAlberto",
             "repo": "FillTheGaps",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "p-larson",
             "repo": "TCA-Bible",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "renaudjenny",
             "repo": "MemoArt",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "Rypac",
             "repo": "wishlist",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "DandyLyons",
             "repo": "TCACalc",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "alexjohnj",
             "repo": "Sauna",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         },
         {
           "node_type": "item",
@@ -412,14 +438,15 @@
             "owner": "oskarek",
             "repo": "Moviehub",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:32:35.593Z"
         }
       ],
       "title": "Showcases:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:46:36.093Z",
+    "last_updated": "2026-08-28T23:32:35.593Z",
     "original_repository_info": {
       "archived": false,
       "id": 267815253,
