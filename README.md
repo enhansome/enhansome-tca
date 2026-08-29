@@ -1,6 +1,6 @@
 # Awesome "The Swift Composable Architecture" with stars
 
-A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,891 | 🐛 25 | 🌐 Swift | 📅 2026-08-28
+A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,892 | 🐛 25 | 🌐 Swift | 📅 2026-08-28
 
 # Articles:
 
@@ -35,7 +35,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 # Code:
 
-* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,891 | 🐛 25 | 🌐 Swift | 📅 2026-08-28
+* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,892 | 🐛 25 | 🌐 Swift | 📅 2026-08-28
 * [Swift Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions) ⭐ 341 | 🐛 17 | 🌐 Swift | 📅 2025-08-21
 * [ReactiveSwift Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture) ⭐ 162 | 🐛 1 | 🌐 Swift | 📅 2023-01-31
 * [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo) ⭐ 93 | 🐛 0 | 📅 2021-04-11
@@ -82,4 +82,4 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

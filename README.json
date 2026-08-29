@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+            "homepage": "https://www.pointfree.co/collections/composable-architecture",
             "id": 261039251,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:10:35Z",
+            "open_issues": 25,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14891
+            "stars": 14892,
+            "topics": [
+              "architecture",
+              "composition",
+              "modularity",
+              "swiftui",
+              "testability",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More dependencies for `swift-dependencies` ",
+            "homepage": null,
             "id": 581857020,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-08-21T03:40:39Z",
+            "open_issues": 17,
             "owner": "tgrapperon",
             "repo": "swift-dependencies-additions",
-            "stars": 341
+            "stars": 341,
+            "topics": [
+              "apple-framework",
+              "architecture",
+              "dependencies",
+              "dependency-injection",
+              "swift",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -42,12 +66,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+            "homepage": "https://www.pointfree.co/",
             "id": 266060329,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-01-31T23:41:06Z",
+            "open_issues": 1,
             "owner": "ReactiveCocoa",
             "repo": "reactiveswift-composable-architecture",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -58,12 +87,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo project that shows how to implement navigation in SwiftUI iOS application using Swift Composable Architecture",
+            "homepage": null,
             "id": 313783684,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-04-11T00:09:59Z",
+            "open_issues": 0,
             "owner": "darrarski",
             "repo": "tca-swiftui-navigation-demo",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "composable-architecture",
+              "example",
+              "ios",
+              "navigation",
+              "swift-composable-architecture",
+              "swiftui",
+              "swiftui-example",
+              "swiftui-navigation"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -74,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example showcasing Tuist and the Composable Architecture",
+            "homepage": null,
             "id": 279782205,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-08-11T10:25:09Z",
+            "open_issues": 0,
             "owner": "fortmarek",
             "repo": "ComposableTuistArchitecture",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -90,12 +138,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✍️ Generates TCA components using XCTemplate",
+            "homepage": null,
             "id": 334965694,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2024-06-21T20:16:53Z",
+            "open_issues": 1,
             "owner": "riiid",
             "repo": "xctemplate-for-tca",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "architecture",
+              "composable",
+              "ios",
+              "swift",
+              "tca",
+              "xctemplate"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -106,12 +166,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "RxSwift implementation of ComposableArchitecture",
+            "homepage": null,
             "id": 269233470,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-06-04T03:04:24Z",
+            "open_issues": 1,
             "owner": "esam091",
             "repo": "RxComposableArchitecture",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -122,12 +187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly generate stubbed Reducers and Views for The Composable Architecture by PointFree",
+            "homepage": null,
             "id": 649290449,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-15T09:42:21Z",
+            "open_issues": 2,
             "owner": "alexhunsley",
             "repo": "tca-beam",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -138,12 +208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 795355513,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-05-03T04:56:45Z",
+            "open_issues": 0,
             "owner": "riiid",
             "repo": "tca-diagram",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         }
@@ -160,12 +235,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source game built in SwiftUI and the Composable Architecture.",
+            "homepage": "https://www.isowords.xyz",
             "id": 348515395,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-16T17:33:23Z",
+            "open_issues": 9,
             "owner": "pointfreeco",
             "repo": "isowords",
-            "stars": 3005
+            "stars": 3005,
+            "topics": [
+              "game",
+              "ios",
+              "swift-composable-architecture",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -176,12 +261,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Markdown (CommonMark) previewer for macOS.",
+            "homepage": null,
             "id": 41756783,
             "language": "Swift",
+            "license": "ISC",
             "last_commit": "2020-10-13T10:03:35Z",
+            "open_issues": 24,
             "owner": "kaishin",
             "repo": "markoff",
-            "stars": 799
+            "stars": 799,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -192,12 +282,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Start living your best life today!",
+            "homepage": null,
             "id": 611292597,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-12-01T17:39:45Z",
+            "open_issues": 2,
             "owner": "Bartozo",
             "repo": "Life-Progress-iOS",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "cloudkit",
+              "coredata",
+              "ios",
+              "ipados",
+              "storekit2",
+              "swift",
+              "swiftui",
+              "tca",
+              "the-composable-architecture",
+              "widgetkit"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -208,12 +314,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An app to count down the days until upcoming milestones.",
+            "homepage": null,
             "id": 267715761,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-02-12T14:29:04Z",
+            "open_issues": 3,
             "owner": "jpsim",
             "repo": "Milestones",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "composable-architecture",
+              "ios",
+              "mac",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -224,12 +340,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minesweeper game in Swift UI using the Composable Architecture",
+            "homepage": null,
             "id": 350113857,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-09T15:30:19Z",
+            "open_issues": 0,
             "owner": "RogyMD",
             "repo": "TCAminesweeper",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "composable-architecture",
+              "game",
+              "minesweeper",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -240,12 +367,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dungeons & Dragons DM companion app in SwiftUI",
+            "homepage": "https://www.construct5e.app",
             "id": 298809329,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-16T19:28:25Z",
+            "open_issues": 1,
             "owner": "Thomvis",
             "repo": "Construct",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -256,12 +388,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PokemonCards - SwiftUI + Composable Architecture Example ",
+            "homepage": null,
             "id": 334202626,
             "language": "Swift",
+            "license": null,
             "last_commit": "2023-03-15T16:49:22Z",
+            "open_issues": 2,
             "owner": "significa",
             "repo": "ios-swiftui-tca-example",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -272,12 +409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visits app (iOS) built with HyperTrack",
+            "homepage": "https://www.hypertrack.com/blog/2020/02/20/build-your-own-location-aware-logistics-app/",
             "id": 241732796,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-05-12T15:12:15Z",
+            "open_issues": 0,
             "owner": "hypertrack",
             "repo": "visits-ios",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -288,12 +430,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert photos into wallpapers - iOS application build with SwiftUI and ComposableArchitecture",
+            "homepage": null,
             "id": 294535800,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-10-04T08:34:39Z",
+            "open_issues": 0,
             "owner": "darrarski",
             "repo": "WallpapersStudio-iOS",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "composable-architecture",
+              "image-processing",
+              "ios-app",
+              "swift",
+              "wallpaper-app"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -304,12 +457,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub notifications in macOS status bar. Written in Swift and unidirectional data flow architecture.",
+            "homepage": null,
             "id": 271827019,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-14T22:07:30Z",
+            "open_issues": 0,
             "owner": "darrarski",
             "repo": "github-status-bar",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "github-notifications",
+              "macos",
+              "status-bar",
+              "swift",
+              "unidirectional-data-flow"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -320,12 +484,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snake built on SwiftUI & TCA (The Composable Architecture)",
+            "homepage": null,
             "id": 386457905,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-07-16T14:53:39Z",
+            "open_issues": 0,
             "owner": "p-larson",
             "repo": "TCA-Snake",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "app",
+              "beta",
+              "canvas",
+              "demo",
+              "example",
+              "game",
+              "ios",
+              "snake",
+              "swift",
+              "swiftui",
+              "tca",
+              "thecomposablearchitecture",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -336,12 +519,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS App to create events in your calendar with PointFree Swift Composable Architecture",
+            "homepage": "https://www.albertomoral.com",
             "id": 280691683,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-07-28T17:47:32Z",
+            "open_issues": 0,
             "owner": "MoralAlberto",
             "repo": "FillTheGaps",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "calendar",
+              "events",
+              "swift",
+              "swift-composable-architecture",
+              "swiftui",
+              "xcode12"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -352,12 +547,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bible reader built with SwiftUI & TCA",
+            "homepage": null,
             "id": 667958281,
             "language": "Swift",
+            "license": null,
             "last_commit": "2023-09-15T19:48:45Z",
+            "open_issues": 3,
             "owner": "p-larson",
             "repo": "TCA-Bible",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "swift",
+              "swiftui",
+              "the-composable-architecture"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -368,12 +572,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic but smart SwiftUI pair-matching game. Continuously improving with some new art styles, new difficulty levels and some other user experience ideas.",
+            "homepage": null,
             "id": 305147839,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-07-24T10:25:31Z",
+            "open_issues": 1,
             "owner": "renaudjenny",
             "repo": "MemoArt",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "composable-architecture",
+              "game",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -384,12 +598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bring back the App Store wishlist",
+            "homepage": null,
             "id": 208662916,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-05-20T11:13:06Z",
+            "open_issues": 0,
             "owner": "Rypac",
             "repo": "wishlist",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -400,12 +619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demonstration of a calculator app written in Swift using The Composable Architecture. ",
+            "homepage": null,
             "id": 666112585,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-04-13T22:26:57Z",
+            "open_issues": 1,
             "owner": "DandyLyons",
             "repo": "TCACalc",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -416,12 +640,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight macOS app that displays your Steam friends list.",
+            "homepage": null,
             "id": 274404291,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-31T13:33:58Z",
+            "open_issues": 0,
             "owner": "alexjohnj",
             "repo": "Sauna",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "composable-architecture",
+              "macos",
+              "steam",
+              "steam-api",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         },
@@ -432,12 +667,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An iOS app for getting information about movies",
+            "homepage": null,
             "id": 222714807,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-08-04T23:14:57Z",
+            "open_issues": 0,
             "owner": "oskarek",
             "repo": "Moviehub",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
         }
@@ -446,15 +686,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:32:35.593Z",
+    "last_updated": "2026-08-29T04:46:31.965Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list for The Composable Architecture",
+      "homepage": null,
       "id": 267815253,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-06-09T02:22:18Z",
+      "open_issues": 0,
       "owner": "antranapp",
       "repo": "awesome-tca",
-      "stars": 327
+      "stars": 327,
+      "topics": [
+        "architecture",
+        "awesome",
+        "awesome-list",
+        "composable-architecture",
+        "modularity",
+        "swiftui",
+        "the-composable-architecture",
+        "uikit",
+        "unidirectional-data-flow",
+        "unidirectional-dataflow"
+      ]
     },
     "original_repository_sha": "3218bc44793ed0bcf8f08763aed2269d86f3d3fd",
     "enhanced_repository": "enhansome/enhansome-tca",
