@@ -47,7 +47,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 # Showcases:
 
-* [isowords - Open source game built in SwiftUI and the Composable Architecture.](https://github.com/pointfreeco/isowords) ⭐ 3,005 | 🐛 9 | 🌐 Swift | 📅 2024-08-16
+* [isowords - Open source game built in SwiftUI and the Composable Architecture.](https://github.com/pointfreeco/isowords) ⭐ 3,006 | 🐛 9 | 🌐 Swift | 📅 2024-08-16
 * [markoff - A lightweight Markdown (CommonMark) previewer for macOS.](https://github.com/kaishin/markoff) ⭐ 799 | 🐛 24 | 🌐 Swift | 📅 2020-10-13
 * [Life Progress](https://github.com/Bartozo/Life-Progress-iOS) ⭐ 313 | 🐛 2 | 🌐 Swift | 📅 2024-12-01
 * [Milestones](https://github.com/jpsim/Milestones) ⭐ 204 | 🐛 3 | 🌐 Swift | 📅 2026-02-12
@@ -82,4 +82,4 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

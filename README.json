@@ -244,7 +244,7 @@
             "open_issues": 9,
             "owner": "pointfreeco",
             "repo": "isowords",
-            "stars": 3005,
+            "stars": 3006,
             "topics": [
               "game",
               "ios",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:03:31.854Z",
+    "last_updated": "2026-08-31T20:02:01.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for The Composable Architecture",
