@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "The Composable Architecture",
-          "description": null,
+          "description": "pointfreeco/swift-composable-architecture",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14946,
+            "stars": 14948,
             "topics": [
               "architecture",
               "composition",
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "Swift Dependencies Additions",
-          "description": null,
+          "description": "tgrapperon/swift-dependencies-additions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -62,7 +62,7 @@
         {
           "node_type": "item",
           "title": "ReactiveSwift Composable Architecture",
-          "description": null,
+          "description": "ReactiveCocoa/reactiveswift-composable-architecture",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -83,7 +83,7 @@
         {
           "node_type": "item",
           "title": "SwiftUI Navigation with Composable Architecture",
-          "description": null,
+          "description": "darrarski/tca-swiftui-navigation-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -113,7 +113,7 @@
         {
           "node_type": "item",
           "title": "TCA + Tuist = Scalable modular architecture",
-          "description": null,
+          "description": "fortmarek/ComposableTuistArchitecture",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -134,7 +134,7 @@
         {
           "node_type": "item",
           "title": "xctemplate for tca",
-          "description": null,
+          "description": "riiid/xctemplate-for-tca",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -162,7 +162,7 @@
         {
           "node_type": "item",
           "title": "RxComposableArchitecture",
-          "description": null,
+          "description": "esam091/RxComposableArchitecture",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -183,7 +183,7 @@
         {
           "node_type": "item",
           "title": "TCA-beam: templated reducer + view stub generation tool",
-          "description": null,
+          "description": "alexhunsley/tca-beam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,7 +204,7 @@
         {
           "node_type": "item",
           "title": "TCADiagram - Create mermaid md file from swift-composable-architecture to show the full diagram of your feature relationships",
-          "description": null,
+          "description": "riiid/tca-diagram",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -231,7 +231,7 @@
         {
           "node_type": "item",
           "title": "isowords - Open source game built in SwiftUI and the Composable Architecture.",
-          "description": null,
+          "description": "pointfreeco/isowords",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -257,7 +257,7 @@
         {
           "node_type": "item",
           "title": "markoff - A lightweight Markdown (CommonMark) previewer for macOS.",
-          "description": null,
+          "description": "kaishin/markoff",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -270,7 +270,7 @@
             "open_issues": 24,
             "owner": "kaishin",
             "repo": "markoff",
-            "stars": 799,
+            "stars": 800,
             "topics": []
           },
           "first_seen": "2026-08-28T23:32:35.593Z"
@@ -278,7 +278,7 @@
         {
           "node_type": "item",
           "title": "Life Progress",
-          "description": null,
+          "description": "Bartozo/Life-Progress-iOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -310,7 +310,7 @@
         {
           "node_type": "item",
           "title": "Milestones",
-          "description": null,
+          "description": "jpsim/Milestones",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -336,7 +336,7 @@
         {
           "node_type": "item",
           "title": "TCAminesweeper - Minesweeper game in Swift UI using the Composable Architecture",
-          "description": null,
+          "description": "RogyMD/TCAminesweeper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -363,7 +363,7 @@
         {
           "node_type": "item",
           "title": "Construct",
-          "description": null,
+          "description": "Thomvis/Construct",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -384,7 +384,7 @@
         {
           "node_type": "item",
           "title": "PokemonCards - SwiftUI + Composable Architecture",
-          "description": null,
+          "description": "significa/ios-swiftui-tca-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -405,7 +405,7 @@
         {
           "node_type": "item",
           "title": "logistics-ios",
-          "description": null,
+          "description": "hypertrack/visits-ios",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -426,7 +426,7 @@
         {
           "node_type": "item",
           "title": "WallpapersStudio-iOS - Convert photos into wallpapers - iOS application build with SwiftUI and ComposableArchitecture",
-          "description": null,
+          "description": "darrarski/WallpapersStudio-iOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -453,7 +453,7 @@
         {
           "node_type": "item",
           "title": "GitHub Status Bar macOS App",
-          "description": null,
+          "description": "darrarski/github-status-bar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -480,7 +480,7 @@
         {
           "node_type": "item",
           "title": "TCA-Snake - Snake built on SwiftUI & TCA (The Composable Architecture)",
-          "description": null,
+          "description": "p-larson/TCA-Snake",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,7 +515,7 @@
         {
           "node_type": "item",
           "title": "FillTheGaps",
-          "description": null,
+          "description": "MoralAlberto/FillTheGaps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -543,7 +543,7 @@
         {
           "node_type": "item",
           "title": "TCA-Bible",
-          "description": null,
+          "description": "p-larson/TCA-Bible",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -568,7 +568,7 @@
         {
           "node_type": "item",
           "title": "MemoArt - A basic but smart SwiftUI pair-matching game. Continuously improving with some new art styles, new difficulty levels and some other user experience ideas.",
-          "description": null,
+          "description": "renaudjenny/MemoArt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -594,7 +594,7 @@
         {
           "node_type": "item",
           "title": "Wishlist",
-          "description": null,
+          "description": "Rypac/wishlist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -636,7 +636,7 @@
         {
           "node_type": "item",
           "title": "Sauna - A lightweight macOS app that displays your Steam friends list.",
-          "description": null,
+          "description": "alexjohnj/Sauna",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -663,7 +663,7 @@
         {
           "node_type": "item",
           "title": "Moviehub",
-          "description": null,
+          "description": "oskarek/Moviehub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:16:16.950Z",
+    "last_updated": "2026-10-03T05:12:38.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for The Composable Architecture",
