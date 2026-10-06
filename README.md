@@ -1,6 +1,6 @@
 # Awesome "The Swift Composable Architecture" with stars
 
-A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,951 | 🐛 24 | 🌐 Swift | 📅 2026-09-18
+A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,952 | 🐛 25 | 🌐 Swift | 📅 2026-09-18
 
 # Articles:
 
@@ -35,7 +35,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 # Code:
 
-* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,951 | 🐛 24 | 🌐 Swift | 📅 2026-09-18
+* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,952 | 🐛 25 | 🌐 Swift | 📅 2026-09-18
 * [Swift Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions) ⭐ 341 | 🐛 17 | 🌐 Swift | 📅 2025-08-21
 * [ReactiveSwift Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture) ⭐ 162 | 🐛 1 | 🌐 Swift | 📅 2023-01-31
 * [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo) ⭐ 93 | 🐛 0 | 📅 2021-04-11
@@ -47,9 +47,9 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 # Showcases:
 
-* [isowords - Open source game built in SwiftUI and the Composable Architecture.](https://github.com/pointfreeco/isowords) ⭐ 3,006 | 🐛 9 | 🌐 Swift | 📅 2024-08-16
+* [isowords - Open source game built in SwiftUI and the Composable Architecture.](https://github.com/pointfreeco/isowords) ⭐ 3,007 | 🐛 9 | 🌐 Swift | 📅 2024-08-16
 * [markoff - A lightweight Markdown (CommonMark) previewer for macOS.](https://github.com/kaishin/markoff) ⭐ 800 | 🐛 24 | 🌐 Swift | 📅 2020-10-13
-* [Life Progress](https://github.com/Bartozo/Life-Progress-iOS) ⭐ 311 | 🐛 2 | 🌐 Swift | 📅 2024-12-01
+* [Life Progress](https://github.com/Bartozo/Life-Progress-iOS) ⭐ 312 | 🐛 2 | 🌐 Swift | 📅 2024-12-01
 * [Milestones](https://github.com/jpsim/Milestones) ⭐ 204 | 🐛 3 | 🌐 Swift | 📅 2026-02-12
 * [TCAminesweeper - Minesweeper game in Swift UI using the Composable Architecture](https://github.com/RogyMD/TCAminesweeper) ⭐ 139 | 🐛 0 | 🌐 Swift | 📅 2024-12-09
 * [Construct](https://github.com/Thomvis/Construct) ⭐ 124 | 🐛 1 | 🌐 Swift | 📅 2026-06-16
@@ -82,4 +82,4 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
