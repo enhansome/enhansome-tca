@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14952,
+            "stars": 14951,
             "topics": [
               "architecture",
               "composition",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:45:52.319Z",
+    "last_updated": "2026-10-06T19:30:32.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for The Composable Architecture",
