@@ -19,7 +19,7 @@
             "open_issues": 27,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14988,
+            "stars": 14990,
             "topics": [
               "architecture",
               "composition",
@@ -47,7 +47,7 @@
             "open_issues": 17,
             "owner": "tgrapperon",
             "repo": "swift-dependencies-additions",
-            "stars": 341,
+            "stars": 340,
             "topics": [
               "apple-framework",
               "architecture",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:38:06.601Z",
+    "last_updated": "2026-10-26T19:55:00.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for The Composable Architecture",
