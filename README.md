@@ -1,6 +1,6 @@
 # Awesome "The Swift Composable Architecture" with stars
 
-A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,004 | 🐛 30 | 🌐 Swift | 📅 2026-10-27
+A curated awesome list for [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,004 | 🐛 28 | 🌐 Swift | 📅 2026-11-05
 
 # Articles:
 
@@ -35,7 +35,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 # Code:
 
-* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,004 | 🐛 30 | 🌐 Swift | 📅 2026-10-27
+* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 15,004 | 🐛 28 | 🌐 Swift | 📅 2026-11-05
 * [Swift Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions) ⭐ 340 | 🐛 17 | 🌐 Swift | 📅 2025-08-21
 * [ReactiveSwift Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture) ⭐ 162 | 🐛 1 | 🌐 Swift | 📅 2023-01-31
 * [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo) ⭐ 93 | 🐛 0 | 📅 2021-04-11
@@ -52,7 +52,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 * [Life Progress](https://github.com/Bartozo/Life-Progress-iOS) ⭐ 312 | 🐛 2 | 🌐 Swift | 📅 2024-12-01
 * [Milestones](https://github.com/jpsim/Milestones) ⭐ 204 | 🐛 3 | 🌐 Swift | 📅 2026-02-12
 * [TCAminesweeper - Minesweeper game in Swift UI using the Composable Architecture](https://github.com/RogyMD/TCAminesweeper) ⭐ 139 | 🐛 0 | 🌐 Swift | 📅 2024-12-09
-* [Construct](https://github.com/Thomvis/Construct) ⭐ 124 | 🐛 1 | 🌐 Swift | 📅 2026-06-16
+* [Construct](https://github.com/Thomvis/Construct) ⭐ 125 | 🐛 1 | 🌐 Swift | 📅 2026-06-16
 * [PokemonCards - SwiftUI + Composable Architecture](https://github.com/coletiv/coletiv-ios-swiftui-tca-example) ⭐ 107 | 🐛 2 | 🌐 Swift | 📅 2023-03-15
 * [logistics-ios](https://github.com/hypertrack/logistics-ios) ⭐ 63 | 🐛 0 | 🌐 Swift | 📅 2025-05-12
 * [WallpapersStudio-iOS - Convert photos into wallpapers - iOS application build with SwiftUI and ComposableArchitecture](https://github.com/darrarski/WallpapersStudio-iOS) ⭐ 42 | 🐛 0 | 🌐 Swift | 📅 2021-10-04
@@ -82,4 +82,4 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
