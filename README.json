@@ -16,10 +16,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-11-05T06:02:49Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15035,
+            "stars": 15037,
             "topics": [
               "architecture",
               "composition",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:29:57.128Z",
+    "last_updated": "2026-11-22T20:42:56.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for The Composable Architecture",
