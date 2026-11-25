@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 15040,
+            "stars": 15043,
             "topics": [
               "architecture",
               "composition",
@@ -387,7 +387,7 @@
           "description": "significa/ios-swiftui-tca-example",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "PokemonCards - SwiftUI + Composable Architecture Example ",
             "homepage": null,
             "id": 334202626,
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:27:49.009Z",
+    "last_updated": "2026-11-25T23:03:56.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for The Composable Architecture",
